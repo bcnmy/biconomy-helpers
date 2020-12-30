@@ -67,6 +67,10 @@ helperAttributes.forwardRequestType = [
   //add new tokens
 
 // pass the networkId to get biconomy forwarder instance and populate domain data
+
+
+// get forwarder network id and 
+
 const getBiconomyForwarder = (provider,networkId) => {
      //get trusted forwarder contract address from network id
      const forwarderAddress = biconomyForwarderAddressMap[networkId];
