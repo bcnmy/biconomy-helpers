@@ -15,18 +15,18 @@ let daiTokenAddressMap = {},
 
 //Kovan
 daiTokenAddressMap[42] = "0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa";
-biconomyForwarderAddressMap[42] = "0x38C72836364Ae731dCAE427e73585f5D1086dD53";
-erc20ForwarderAddressMap[42] = "0xe8515c8200bA9c74FaD5B51F5265be1C3Daacee8";
-oracleAggregatorAddressMap[42] = "0x4C66c4509177be39614EbdeA7D76104eFE2179f1";
-usdcTokenAddressMap[42] = "0xA5d2a43d94B6a26054506D18ea44E4749f727721";
-usdtTokenAddressMap[42] = "0x7816604Da30cFb779Cd0F113E748238033710bAa";
+biconomyForwarderAddressMap[42] = "0xE8Df44bcaedD41586cE73eB85e409bcaa834497B";
+erc20ForwarderAddressMap[42] = "0xbc4de0Fa9734af8DB0fA70A24908Ab48F7c8D75d";
+oracleAggregatorAddressMap[42] = "0x6c0F8e37e953e6101168717Ab80CFB5A8D2A2F3E";
+usdcTokenAddressMap[42] = "0x6043fD7126e4229d6FcaC388c9E1C8d333CCb8fA";
+usdtTokenAddressMap[42] = "0x8e1084f3599ba90991C3b2f9e25D920738C1496D";
 
 //Rinkeby
-daiTokenAddressMap[4] = "";
-biconomyForwarderAddressMap[4] = "";
-erc20ForwarderAddressMap[4] = "";
-oracleAggregatorAddressMap[4] = "";
-usdcTokenAddressMap[4] = "";
+daiTokenAddressMap[4] = "0xc7ad46e0b8a400bb3c915120d284aafba8fc4735";
+biconomyForwarderAddressMap[4] = "0x1730cAe53340aB01228019618C2b544642f3650A";
+erc20ForwarderAddressMap[4] = "0x58697867383da03CBA35617BFbb3c0f6f91074d8";
+oracleAggregatorAddressMap[4] = "0x7126fe7207d1639293A89d4Ff1f66362b0D11776";
+usdcTokenAddressMap[4] = "0x1ee9a3E27100B640E830ea4c8AC1954Ec8Fa601F";
 
 
 // any other constants needed goes in helperAttributes
